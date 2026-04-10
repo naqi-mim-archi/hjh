@@ -1,0 +1,15 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #4ec0ca;
+    font-family: 'Courier New', Courier, monospace;
+    user-select: none;
+}
+
+#gameCanvas {
+    display: block;
+    touch-action: none;
+}
